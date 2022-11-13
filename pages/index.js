@@ -8,10 +8,10 @@ export default function Home() {
       <Head>
         <title>Welcome My Website 👋 !!</title>  </Head>
 
-      <main>
+      <main style="background-color:lightblue;">
         <Header title="Hello User" />
-        <p className="description">
-          Hello User Welcome My Website My Discord <code>"The Plague Doctor#1337"</code>
+        <p style="color:darkblue;" className="description">
+          Hello User Welcome My Website My Discord "The Plague Doctor#1337"
         </p>
       </main>
 
