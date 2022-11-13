@@ -8,11 +8,13 @@ export default function Home() {
       <Head>
         <title>Welcome My Website 👋 !!</title>  </Head>
 
-      <main style="background-color:lightblue;">
-        <Header title="Hello User" />
-        <p style="color:darkblue;" className="description">
-          Hello User Welcome My Website My Discord "The Plague Doctor#1337"
-        </p>
+      <main>
+        <body style="background-color:lightblue;">
+         <Header title="Hello User" />
+         <p style="color:darkblue;" className="description">
+           Hello User Welcome My Website My Discord "The Plague Doctor#1337"
+         </p>
+        </body>
       </main>
 
       <Footer />
