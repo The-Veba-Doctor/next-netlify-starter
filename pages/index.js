@@ -11,7 +11,7 @@ export default function Home() {
       <main>
         <Header title="Hello User" />
         <p className="description">
-          Welcome My Website    <link rel="icon" href="/favicon.ico" />
+          Welcome My Website
         </p>
       </main>
 
