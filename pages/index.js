@@ -11,7 +11,7 @@ export default function Home() {
       <main>
         <Header title="Hello User" />
         <p className="description">
-          Welcome My Website
+          Hello User Welcome My Website My Discord <code>The Plague Doctor#1337<code>
         </p>
       </main>
 
